@@ -1,0 +1,11 @@
+Bob's Burgers Restaurant Receipt Order
+-----------------------
+0 Regular(s)
+0 Special(s)
+0 Cheese(s)
+0 Fries
+0 Salad(s)
+0 Soft Drink(s)
+-----------------------
+Total: $0.00
+Thank you and come again!
